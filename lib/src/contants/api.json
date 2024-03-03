@@ -1,0 +1,53 @@
+{
+  "id": "65e349b8266cfc3fde922e07",
+  "record": {
+    "puzzles": [
+      {
+        "title": "Pins",
+        "puzzles": [
+          {
+            "fen": "2bq4/p4pk1/1p1r3p/6p1/8/1P3P2/P4NPP/4QR1K b - - 0 1",
+            "last": { "from": "d8", "to": "f6" },
+            "answer": { "from": "f2", "to": "e4" }
+          },
+          {
+            "fen": "2bq4/p4pk1/1p1r3p/6p1/8/1P3P2/P4NPP/4QR1K b - - 0 1",
+            "last": { "from": "d8", "to": "f6" },
+            "answer": { "from": "f2", "to": "e4" }
+          },
+          {
+            "fen": "2bq4/p4pk1/1p1r3p/6p1/8/1P3P2/P4NPP/4QR1K b - - 0 1",
+            "last": { "from": "d8", "to": "f6" },
+            "answer": { "from": "f2", "to": "e4" }
+          }
+        ]
+      },
+      {
+        "title": "Pins",
+        "puzzles": [
+          {
+            "fen": "2bq4/p4pk1/1p1r3p/6p1/8/1P3P2/P4NPP/4QR1K b - - 0 1",
+            "last": { "from": "d8", "to": "f6" },
+            "answer": { "from": "f2", "to": "e4" }
+          },
+          {
+            "fen": "2bq4/p4pk1/1p1r3p/6p1/8/1P3P2/P4NPP/4QR1K b - - 0 1",
+            "last": { "from": "d8", "to": "f6" },
+            "answer": { "from": "f2", "to": "e4" }
+          },
+          {
+            "fen": "2bq4/p4pk1/1p1r3p/6p1/8/1P3P2/P4NPP/4QR1K b - - 0 1",
+            "last": { "from": "d8", "to": "f6" },
+            "answer": { "from": "f2", "to": "e4" }
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "name": "chess",
+    "readCountRemaining": 24,
+    "timeToExpire": 78015,
+    "createdAt": "2024-03-02T15:46:00.993Z"
+  }
+}
